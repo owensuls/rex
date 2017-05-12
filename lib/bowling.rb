@@ -1,3 +1,4 @@
+# This class is used to experiment with classes and functions in Ruby.
 class Bowling
   attr_reader :score
 

@@ -1,5 +1,7 @@
 #!/usr/bin/env ruby
 
+# This class demonstrates how to use Docopt, which helps provides options to users.
+
 require 'docopt'
 
 class HelpException < RuntimeError; end
