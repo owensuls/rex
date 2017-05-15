@@ -24,3 +24,6 @@ vendor/cookbooks/*
 Gemfile.lock
 bin/*
 .bundle/*
+
+# Other
+jenkins/*
